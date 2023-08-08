@@ -5,6 +5,12 @@
 ##### Hola mundo 5 
 ###### Hola mundo 6
 
+## This is a Task list:
+
+- [ ] Start with the github course
+- [ ] Practice all about ReactJs
+- [ ] Finish this to continue with the ReactJs course
+#
 
 ### Adding a code example:
 
